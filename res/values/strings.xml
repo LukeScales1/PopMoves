@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PopMoves</string>
+    <string name="sort_by">Sort By:</string>
+    <string name="most_pop">Most Popular</string>
+    <string name="top_rate">Top Rated</string>
+</resources>
